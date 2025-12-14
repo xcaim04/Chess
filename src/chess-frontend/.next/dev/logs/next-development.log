@@ -948,3 +948,779 @@ Import trace:
 [00:19:29.600] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
 [00:19:29.600] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765745347882}
 [00:21:00.995] Server  LOG      ✓ Compiled in 162ms
+[00:37:04.476] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:04.479] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:04.482] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:04.485] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:05.047] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:05.049] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:05.051] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:05.053] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[00:37:05.079] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:05.279] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:37:05.279] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:37:05.279] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765746403554}
+[02:33:50.721] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[02:33:50.722] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[02:33:50.723] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[02:33:50.724] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.013] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.016] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.018] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.020] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.277] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.279] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.281] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.282] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:03.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:03:03.485] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:03:03.486] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:03:03.486] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755161764}
+[03:03:04.583] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.584] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.587] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.591] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.776] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.778] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.779] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.781] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:04.793] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:03:04.927] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:03:04.927] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:03:04.927] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755163206}
+[03:03:31.650] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.653] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.655] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.658] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.824] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.826] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.828] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.829] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:03:31.830] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:03:31.969] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:03:31.969] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:03:31.969] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755190250}
+[03:06:23.450] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.451] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.453] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.455] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.613] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.614] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.614] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.615] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:23.630] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:06:23.801] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:06:23.801] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:06:23.801] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755362061}
+[03:06:24.541] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.542] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.543] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.544] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.677] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.677] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.678] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.679] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:06:24.851] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:06:24.852] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:06:24.852] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755363118}
+[03:06:24.910] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.914] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.915] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:24.917] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:25.082] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:25.085] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:25.088] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:25.090] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:06:25.098] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:06:25.251] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:06:25.251] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:06:25.252] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765755363528}
+[03:09:37.729] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:37.730] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:37.731] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:37.731] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:38.820] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:38.823] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:38.825] Server  WARN     ⚠ [next]/internal/font/google/geist_9e050971.module.css
+next/font: warning:
+Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_9e050971.module.css
+    [next]/internal/font/google/geist_9e050971.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+
+[03:09:38.827] Server  WARN     ⚠ [next]/internal/font/google/geist_mono_1ef7f99.module.css
+next/font: warning:
+Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/geist_mono_1ef7f99.module.css
+    [next]/internal/font/google/geist_mono_1ef7f99.js
+    ./Desktop/chess/src/chess-frontend/app/layout.tsx
+
+

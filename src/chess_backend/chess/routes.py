@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException
 import chess
-from chess_backend.chess.minmax import best_move
+from chess_backend.chess.engine import best_move
 from chess_backend.auth.utils import get_current_user
 
 router = APIRouter()

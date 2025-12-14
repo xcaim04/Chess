@@ -111,7 +111,36 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$chess$2f$src$2f$c
 ;
 const metadata = {
     title: "Chess Maestro - Ajedrez 3D contra IA",
-    description: "Juega ajedrez en un tablero 3D realista contra una IA poderosa"
+    description: "Juega ajedrez en un tablero 3D realista contra una IA poderosa",
+    icons: {
+        icon: [
+            {
+                url: "/favicon.svg"
+            },
+            {
+                url: "/favicon-32x32.png",
+                sizes: "32x32",
+                type: "image/png"
+            },
+            {
+                url: "/favicon-16x16.png",
+                sizes: "16x16",
+                type: "image/png"
+            }
+        ],
+        apple: [
+            {
+                url: "/apple-touch-icon.png",
+                sizes: "180x180"
+            }
+        ],
+        other: [
+            {
+                url: "/site.webmanifest",
+                rel: "manifest"
+            }
+        ]
+    }
 };
 function RootLayout({ children }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$chess$2f$src$2f$chess$2d$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
@@ -128,23 +157,23 @@ function RootLayout({ children }) {
                     children,
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$chess$2f$src$2f$chess$2d$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$chess$2f$src$2f$chess$2d$frontend$2f$node_modules$2f40$vercel$2f$analytics$2f$dist$2f$next$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Analytics"], {}, void 0, false, {
                         fileName: "[project]/Desktop/chess/src/chess-frontend/app/layout.tsx",
-                        lineNumber: 21,
+                        lineNumber: 34,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/chess/src/chess-frontend/app/layout.tsx",
-                lineNumber: 19,
+                lineNumber: 32,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/Desktop/chess/src/chess-frontend/app/layout.tsx",
-            lineNumber: 18,
+            lineNumber: 31,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/Desktop/chess/src/chess-frontend/app/layout.tsx",
-        lineNumber: 17,
+        lineNumber: 30,
         columnNumber: 5
     }, this);
 }
